@@ -1,6 +1,6 @@
 # API YaMDB
 
-![Workflow status](https://github.com/mdkostrov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Workflow repo status](https://github.com/mdkostrov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ### Описание проекта.
 
