@@ -1,6 +1,6 @@
 # API YaMDB
 
-![Workflow repo status](https://github.com/mdkostrov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Workflow repository status](https://github.com/mdkostrov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ### Описание проекта.
 
@@ -53,7 +53,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Перейтив папку с файлом docker-compose.yaml:
+Перейти в папку с файлом docker-compose.yaml:
 
 ```bash
 cd infra
